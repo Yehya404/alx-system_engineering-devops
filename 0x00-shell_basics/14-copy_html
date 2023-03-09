@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u pwd/*.htm ..
+cp -u pwd/*.htm .
